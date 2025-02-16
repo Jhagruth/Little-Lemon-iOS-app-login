@@ -1,10 +1,3 @@
-//
-//  MenuList.swift
-//  littlelemon
-//
-//  Created by Emre Ülkem on 23.04.2023.
-//
-
 import Foundation
 import CoreData
 

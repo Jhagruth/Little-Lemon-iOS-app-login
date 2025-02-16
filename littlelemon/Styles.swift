@@ -1,10 +1,3 @@
-//
-//  Styles.swift
-//  littlelemon
-//
-//  Created by Emre Ülkem on 1.05.2023.
-//
-
 import SwiftUI
 
 struct ButtonStyleYellowColorWide: ButtonStyle {

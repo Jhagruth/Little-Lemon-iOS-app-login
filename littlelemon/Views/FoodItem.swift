@@ -1,10 +1,3 @@
-//
-//  FoodItem.swift
-//  littlelemon
-//
-//  Created by Emre Ülkem on 5.05.2023.
-//
-
 import SwiftUI
 
 struct FoodItem: View {

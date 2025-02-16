@@ -1,10 +1,3 @@
-//
-//  Header.swift
-//  littlelemon
-//
-//  Created by Emre Ülkem on 29.04.2023.
-//
-
 import SwiftUI
 
 struct Header: View {

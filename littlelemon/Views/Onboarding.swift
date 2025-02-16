@@ -1,10 +1,3 @@
-//
-//  Onboarding.swift
-//  littlelemon
-//
-//  Created by Emre Ülkem on 15.04.2023.
-//
-
 import SwiftUI
 
 struct Onboarding: View {
