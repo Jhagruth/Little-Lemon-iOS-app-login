@@ -9,7 +9,7 @@ After that, I worked on fetching data from an API and storing it locally on a mo
 
 I also worked on sorting and filtering the food items, which brought more complexity to the application but made it easier to use for the end users.
 
-## Wirefram: 
+## Wireframe: 
 <img src="assets/Wireframe.png" alt="Wireframe" width="500px">
 
 ## OnboardingScreen: 
