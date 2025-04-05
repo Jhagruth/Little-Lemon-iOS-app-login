@@ -2,12 +2,11 @@ Little Lemon Restaurant App
 
 This is the capstone project of iOS development certificate courses by Meta.
 
-I used Figma for planning the design and, I used Git and GitHub for ensuring workflow.
+In the design planning phase, I utilised Figma. To ensure the workflow, I employed Git and GitHub.
 
-I started with developing the onboarding flow enabling users to create their accounts, then I worked on setting the navigation flow.
-After that, I worked on fetching data from an API and storing it locally on a mobile device using core data so that the user can interact with the application without internet connectivity.
+Initially, I focused on developing the onboarding flow, which allows users to create their accounts. Subsequently, I worked on establishing the navigation flow. Next, using Core Data, I implemented data fetching from an API and local storage on a mobile device. This approach enables users to interact with the application even without internet connectivity.
 
-I also worked on sorting and filtering the food items, which brought more complexity to the application but made it easier to use for the end users.
+Furthermore, I enhanced the application by implementing sorting and filtering functionalities for food items. While this introduced additional complexity, it simplified the user experience.
 
 ## Wireframe: 
 <img src="assets/Wireframe.png" alt="Wireframe" width="500px">
