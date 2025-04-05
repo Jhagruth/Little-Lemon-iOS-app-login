@@ -11,18 +11,17 @@ Furthermore, I enhanced the application by implementing sorting and filtering fu
 ## Wireframe: 
 <img src="assets/Wireframe.png" alt="Wireframe" width="500px">
 
-## OnboardingScreen: 
+## Onboarding Screen: 
 <img src="assets/Onboarding.png" alt="Onboarding" width="500px">
 
-## ProfileScreen: 
+## Profile Screen: 
 <img src="assets/Profile.png" alt="Profile" width="500px">
 
-## HomeScreenDesign: 
+## Home Screen Design: 
 <img src="assets/HomeScreen.png" alt="HomeScreenDesign" width="500px">
 
-## HomeScreen: 
+## Home Screen: 
 <img src="assets/Home.png" alt="Home" width="500px">
 
-## StyleGuide: 
+## Style Guide: 
 <img src="assets/StyleGuide.png" alt="StyleGuide" width="500px">
-
